@@ -1,0 +1,10 @@
+.main{
+  font-size: 86px;
+  font-family: Arial;
+}
+.button{
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  font-size: 40px;
+}
